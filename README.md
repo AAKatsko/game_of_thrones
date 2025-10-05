@@ -73,6 +73,7 @@
 ## Итог
 
 Лучшая модель: **VotingClassifier**
+
 Состав ансамбля:
 - GradientBoostingClassifier
 - AdaBoostClassifier
@@ -80,6 +81,3 @@
 
 **Итоговая Accuracy: 0.735**
 
-### Требования
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
